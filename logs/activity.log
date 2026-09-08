@@ -565,3 +565,4 @@
 2026-09-08 09:17:30 UTC | patch
 2026-09-08 11:06:30 UTC | hotfix
 2026-09-08 14:13:39 UTC | fix(utils): resolve edge case
+2026-09-08 19:40:40 UTC | chore(api): clean up unused code
