@@ -541,3 +541,4 @@
 2026-09-10 08:48:12 UTC | minor tweaks
 2026-09-10 13:29:04 UTC | update notes
 2026-09-10 13:31:37 UTC | perf(router): cache repeated calls
+2026-09-10 18:03:10 UTC | perf(logger): reduce memory usage
