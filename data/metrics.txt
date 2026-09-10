@@ -540,3 +540,4 @@
 2026-09-10 07:18:55 UTC | docs(validator): update inline notes
 2026-09-10 08:48:12 UTC | minor tweaks
 2026-09-10 13:29:04 UTC | update notes
+2026-09-10 13:31:37 UTC | perf(router): cache repeated calls
