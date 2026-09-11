@@ -546,3 +546,4 @@
 2026-09-11 03:47:37 UTC | style(handler): improve readability
 2026-09-11 03:50:41 UTC | test(cache): add missing assertions
 2026-09-11 07:22:05 UTC | fix(cache): add missing guard clause
+2026-09-11 08:56:36 UTC | refactor(handler): update interface contract
