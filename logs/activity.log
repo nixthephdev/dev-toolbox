@@ -596,3 +596,4 @@
 2026-09-12 08:31:01 UTC | tweaks
 2026-09-13 20:43:35 UTC | update notes
 2026-09-14 17:57:03 UTC | fixes
+2026-09-14 17:57:55 UTC | refactor(handler): simplify conditional logic
