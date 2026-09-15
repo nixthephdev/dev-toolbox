@@ -557,3 +557,4 @@
 2026-09-13 13:47:33 UTC | feat(cache): add retry logic
 2026-09-14 17:54:10 UTC | feat(logger): extend output format
 2026-09-14 17:58:25 UTC | fixes
+2026-09-15 00:18:41 UTC | test(handler): add integration test
