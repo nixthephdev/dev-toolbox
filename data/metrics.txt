@@ -561,3 +561,4 @@
 2026-09-15 03:59:31 UTC | perf(validator): lazy load module
 2026-09-15 09:34:41 UTC | fix typo
 2026-09-15 09:35:38 UTC | docs(parser): add usage example
+2026-09-15 11:44:23 UTC | fix(handler): fix broken flow
