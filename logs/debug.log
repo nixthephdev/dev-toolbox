@@ -545,3 +545,4 @@
 2026-09-16 09:17:10 UTC | feat(api): extend output format
 2026-09-16 11:17:41 UTC | test(api): add integration test
 2026-09-16 11:19:43 UTC | tweaks
+2026-09-16 22:35:43 UTC | fix(parser): fix incorrect regex
