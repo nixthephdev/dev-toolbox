@@ -565,3 +565,4 @@
 2026-09-15 11:45:47 UTC | minor changes
 2026-09-16 00:23:58 UTC | feat(validator): add new endpoint
 2026-09-16 22:40:16 UTC | minor update
+2026-09-17 00:41:41 UTC | perf(parser): cache repeated calls
