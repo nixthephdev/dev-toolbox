@@ -547,3 +547,4 @@
 2026-09-16 11:19:43 UTC | tweaks
 2026-09-16 22:35:43 UTC | fix(parser): fix incorrect regex
 2026-09-16 22:37:32 UTC | refactor(cache): rename variable for clarity
+2026-09-17 07:23:20 UTC | refactor(auth): simplify conditional logic
