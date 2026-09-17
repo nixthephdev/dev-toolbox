@@ -571,3 +571,4 @@
 2026-09-17 11:09:06 UTC | style(parser): fix indentation issues
 2026-09-17 11:10:06 UTC | tweaks
 2026-09-17 11:11:24 UTC | feat(db): extend functionality
+2026-09-17 18:01:14 UTC | refactor(validator): simplify conditional logic
