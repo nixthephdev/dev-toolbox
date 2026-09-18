@@ -580,3 +580,4 @@
 2026-09-17 23:17:37 UTC | test(config): improve test coverage
 2026-09-17 23:19:09 UTC | chore(auth): update dependencies
 2026-09-18 09:24:56 UTC | style(utils): improve readability
+2026-09-18 13:05:01 UTC | docs(cache): add usage example
