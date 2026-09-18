@@ -568,3 +568,4 @@
 2026-09-18 10:51:53 UTC | style(cache): clean up formatting
 2026-09-18 13:06:39 UTC | fix typo
 2026-09-18 13:08:50 UTC | perf(logger): reduce memory usage
+2026-09-18 14:08:19 UTC | docs(logger): add usage example
