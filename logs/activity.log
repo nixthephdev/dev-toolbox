@@ -629,3 +629,4 @@
 2026-09-18 13:10:36 UTC | refactor(cache): extract repeated block
 2026-09-18 13:11:11 UTC | minor tweaks
 2026-09-18 14:05:01 UTC | refactor(cache): refactor nested conditions
+2026-09-18 14:06:37 UTC | perf(api): trim unnecessary dependencies
