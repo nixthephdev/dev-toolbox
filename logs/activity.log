@@ -618,3 +618,4 @@
 2026-09-17 20:47:46 UTC | style(parser): clean up formatting
 2026-09-17 23:15:55 UTC | docs(parser): add param descriptions
 2026-09-18 04:02:58 UTC | refactor(ui): simplify conditional logic
+2026-09-18 04:05:36 UTC | chore(validator): update default values
