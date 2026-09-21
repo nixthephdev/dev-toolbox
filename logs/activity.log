@@ -647,3 +647,4 @@
 2026-09-21 05:40:12 UTC | perf(api): lazy load module
 2026-09-21 09:43:22 UTC | tweaks
 2026-09-21 09:45:02 UTC | refactor(config): refactor nested conditions
+2026-09-21 09:45:57 UTC | fix(parser): correct off-by-one error
