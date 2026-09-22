@@ -649,3 +649,4 @@
 2026-09-21 09:45:02 UTC | refactor(config): refactor nested conditions
 2026-09-21 09:45:57 UTC | fix(parser): correct off-by-one error
 2026-09-21 17:36:07 UTC | test(validator): add edge case tests
+2026-09-22 00:50:54 UTC | docs(validator): clarify function purpose
