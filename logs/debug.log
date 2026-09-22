@@ -582,3 +582,4 @@
 2026-09-21 17:35:01 UTC | tidy up
 2026-09-21 17:36:23 UTC | small fix
 2026-09-22 03:57:46 UTC | fix(handler): fix race condition
+2026-09-22 11:05:20 UTC | chore(db): update default values
