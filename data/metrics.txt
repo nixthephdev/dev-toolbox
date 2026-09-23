@@ -592,3 +592,4 @@
 2026-09-22 11:09:11 UTC | minor tweaks
 2026-09-22 18:14:12 UTC | style(logger): normalize spacing
 2026-09-23 13:56:10 UTC | fix(config): fix incorrect regex
+2026-09-23 13:56:27 UTC | test(handler): add edge case tests
