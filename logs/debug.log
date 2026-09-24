@@ -589,3 +589,4 @@
 2026-09-23 19:55:47 UTC | style(logger): consistent quotes
 2026-09-24 00:15:44 UTC | fix(api): fix broken flow
 2026-09-24 07:04:05 UTC | feat(handler): add input sanitization
+2026-09-24 09:27:42 UTC | refactor(ui): simplify conditional logic
