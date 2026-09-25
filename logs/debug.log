@@ -602,3 +602,4 @@
 2026-09-25 11:48:24 UTC | refactor(handler): rename variable for clarity
 2026-09-25 11:50:47 UTC | docs(auth): add param descriptions
 2026-09-25 11:53:46 UTC | small fix
+2026-09-25 19:58:03 UTC | chore(parser): clean up unused code
