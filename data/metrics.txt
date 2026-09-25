@@ -606,3 +606,4 @@
 2026-09-25 11:51:42 UTC | chore(api): remove redundant check
 2026-09-25 19:56:43 UTC | fix(config): fix race condition
 2026-09-25 19:57:26 UTC | fix(db): resolve edge case
+2026-09-25 20:01:10 UTC | fix(auth): resolve edge case
