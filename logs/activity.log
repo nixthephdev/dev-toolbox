@@ -671,3 +671,4 @@
 2026-09-25 07:05:25 UTC | docs(config): update inline notes
 2026-09-25 07:06:26 UTC | chore(db): clean up unused code
 2026-09-25 07:08:05 UTC | test(utils): update test fixtures
+2026-09-25 07:08:30 UTC | fix(config): resolve edge case
