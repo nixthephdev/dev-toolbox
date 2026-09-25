@@ -604,3 +604,4 @@
 2026-09-25 09:41:25 UTC | minor update
 2026-09-25 09:44:15 UTC | hotfix
 2026-09-25 11:51:42 UTC | chore(api): remove redundant check
+2026-09-25 19:56:43 UTC | fix(config): fix race condition
