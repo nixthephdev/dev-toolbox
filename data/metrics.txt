@@ -607,3 +607,4 @@
 2026-09-25 19:56:43 UTC | fix(config): fix race condition
 2026-09-25 19:57:26 UTC | fix(db): resolve edge case
 2026-09-25 20:01:10 UTC | fix(auth): resolve edge case
+2026-09-26 01:02:08 UTC | fix(ui): correct off-by-one error
