@@ -617,3 +617,4 @@
 2026-09-29 00:32:46 UTC | refactor(api): consolidate duplicate logic
 2026-09-29 10:31:10 UTC | tweaks
 2026-09-29 10:32:26 UTC | fix(api): add missing return
+2026-09-29 10:33:48 UTC | style(api): fix indentation issues
