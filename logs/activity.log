@@ -691,3 +691,4 @@
 2026-09-28 06:06:32 UTC | fix(logger): fix off-by-one
 2026-09-28 08:28:57 UTC | update notes
 2026-09-28 13:34:52 UTC | docs(parser): add param descriptions
+2026-09-29 00:33:56 UTC | docs(logger): update documentation
