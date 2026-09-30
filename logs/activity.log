@@ -696,3 +696,4 @@
 2026-09-29 15:13:54 UTC | wip
 2026-09-29 23:31:05 UTC | minor changes
 2026-09-30 23:50:02 UTC | perf(utils): reduce memory usage
+2026-09-30 23:53:41 UTC | fix(router): handle null values
