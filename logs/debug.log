@@ -639,3 +639,4 @@
 2026-10-02 04:45:40 UTC | feat(handler): extend output format
 2026-10-02 04:46:49 UTC | perf(auth): trim unnecessary dependencies
 2026-10-02 04:48:48 UTC | hotfix
+2026-10-02 10:26:38 UTC | style(api): consistent quotes
