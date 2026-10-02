@@ -640,3 +640,4 @@
 2026-10-02 04:46:49 UTC | perf(auth): trim unnecessary dependencies
 2026-10-02 04:48:48 UTC | hotfix
 2026-10-02 10:26:38 UTC | style(api): consistent quotes
+2026-10-02 14:37:41 UTC | test(api): improve test coverage
