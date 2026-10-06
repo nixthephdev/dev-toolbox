@@ -722,3 +722,4 @@
 2026-10-05 04:16:34 UTC | feat(parser): add type annotations
 2026-10-05 14:22:32 UTC | refactor(validator): simplify conditional logic
 2026-10-05 20:27:14 UTC | wip
+2026-10-06 00:15:24 UTC | docs(ui): add usage example
