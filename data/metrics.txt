@@ -666,3 +666,4 @@
 2026-10-09 00:16:17 UTC | wip
 2026-10-09 00:19:33 UTC | refactor(api): rename variable for clarity
 2026-10-09 08:16:33 UTC | minor changes
+2026-10-09 08:17:05 UTC | fix(logger): handle null values
