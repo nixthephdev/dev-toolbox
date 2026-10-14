@@ -767,3 +767,4 @@
 2026-10-13 11:35:33 UTC | hotfix
 2026-10-13 19:01:32 UTC | perf(api): reduce memory usage
 2026-10-14 03:52:44 UTC | tweaks
+2026-10-14 05:51:09 UTC | feat(router): extend output options
