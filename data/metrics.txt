@@ -720,3 +720,4 @@
 2026-10-16 22:55:40 UTC | perf(cache): reduce memory usage
 2026-10-16 22:57:01 UTC | style(cache): normalize spacing
 2026-10-16 22:57:51 UTC | perf(db): reduce memory usage
+2026-10-16 22:59:02 UTC | docs(ui): clarify function purpose
