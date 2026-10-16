@@ -706,3 +706,4 @@
 2026-10-15 16:26:34 UTC | minor changes
 2026-10-15 16:27:35 UTC | test(config): improve test coverage
 2026-10-15 18:37:15 UTC | docs(router): update inline notes
+2026-10-16 00:11:43 UTC | fix(config): fix race condition
