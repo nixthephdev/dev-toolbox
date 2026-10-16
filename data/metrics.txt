@@ -716,3 +716,4 @@
 2026-10-16 15:50:56 UTC | docs(router): add usage example
 2026-10-16 19:51:24 UTC | feat(api): extend output format
 2026-10-16 19:52:29 UTC | docs(utils): add usage example
+2026-10-16 22:50:39 UTC | style(logger): clean up formatting
