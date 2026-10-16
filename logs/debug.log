@@ -705,3 +705,4 @@
 2026-10-16 00:12:12 UTC | fixes
 2026-10-16 03:41:58 UTC | tweaks
 2026-10-16 03:42:49 UTC | minor fix
+2026-10-16 06:49:40 UTC | perf(router): cache repeated calls
