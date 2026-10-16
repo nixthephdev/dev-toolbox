@@ -783,3 +783,4 @@
 2026-10-16 11:27:19 UTC | update notes
 2026-10-16 15:45:21 UTC | update config
 2026-10-16 15:47:50 UTC | fix typo
+2026-10-16 15:49:28 UTC | chore(config): remove redundant check
