@@ -786,3 +786,4 @@
 2026-10-16 15:49:28 UTC | chore(config): remove redundant check
 2026-10-16 15:50:31 UTC | update config
 2026-10-16 22:49:39 UTC | update config
+2026-10-18 03:44:06 UTC | perf(validator): trim unnecessary dependencies
