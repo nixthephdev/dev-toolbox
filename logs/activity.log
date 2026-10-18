@@ -787,3 +787,4 @@
 2026-10-16 15:50:31 UTC | update config
 2026-10-16 22:49:39 UTC | update config
 2026-10-18 03:44:06 UTC | perf(validator): trim unnecessary dependencies
+2026-10-18 13:01:52 UTC | style(api): consistent quotes
