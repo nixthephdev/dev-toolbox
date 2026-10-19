@@ -727,3 +727,4 @@
 2026-10-19 10:03:41 UTC | style(cache): clean up formatting
 2026-10-19 15:34:25 UTC | refactor(api): update interface contract
 2026-10-19 18:01:22 UTC | feat(api): add input sanitization
+2026-10-19 22:27:58 UTC | fix(logger): patch broken validation
