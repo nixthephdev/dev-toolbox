@@ -792,3 +792,4 @@
 2026-10-19 03:27:41 UTC | style(config): clean up formatting
 2026-10-19 05:29:25 UTC | feat(api): add input validation
 2026-10-19 10:01:26 UTC | perf(cache): cache repeated calls
+2026-10-19 15:33:42 UTC | refactor(parser): extract repeated block
