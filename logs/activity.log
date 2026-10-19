@@ -790,3 +790,4 @@
 2026-10-18 13:01:52 UTC | style(api): consistent quotes
 2026-10-19 03:27:04 UTC | fix(api): patch broken validation
 2026-10-19 03:27:41 UTC | style(config): clean up formatting
+2026-10-19 05:29:25 UTC | feat(api): add input validation
