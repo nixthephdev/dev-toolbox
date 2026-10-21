@@ -806,3 +806,4 @@
 2026-10-20 14:09:39 UTC | refactor(parser): extract repeated block
 2026-10-20 20:07:02 UTC | fixes
 2026-10-20 23:35:38 UTC | test(validator): improve test coverage
+2026-10-21 00:38:46 UTC | small fix
