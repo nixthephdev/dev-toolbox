@@ -746,3 +746,4 @@
 2026-10-23 11:39:28 UTC | hotfix
 2026-10-23 11:41:07 UTC | small fix
 2026-10-23 11:44:02 UTC | docs(db): add param descriptions
+2026-10-23 11:44:30 UTC | style(handler): normalize spacing
