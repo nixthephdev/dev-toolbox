@@ -751,3 +751,4 @@
 2026-10-23 07:09:27 UTC | patch
 2026-10-23 07:10:44 UTC | small update
 2026-10-23 09:50:40 UTC | small update
+2026-10-23 09:52:06 UTC | fix(validator): add missing return
