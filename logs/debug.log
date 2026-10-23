@@ -745,3 +745,4 @@
 2026-10-22 00:32:02 UTC | chore(parser): routine maintenance
 2026-10-22 03:45:20 UTC | cleanup
 2026-10-22 11:56:43 UTC | feat(parser): add utility helper
+2026-10-23 00:48:49 UTC | feat(cache): add retry logic
