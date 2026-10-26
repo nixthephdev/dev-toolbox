@@ -845,3 +845,4 @@
 2026-10-26 03:54:28 UTC | tweaks
 2026-10-26 03:58:48 UTC | docs(logger): add param descriptions
 2026-10-26 07:53:14 UTC | chore(ui): remove redundant check
+2026-10-26 07:53:51 UTC | chore(parser): update default values
