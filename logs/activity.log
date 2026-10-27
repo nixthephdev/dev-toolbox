@@ -861,3 +861,4 @@
 2026-10-27 12:09:15 UTC | fix(db): correct off-by-one error
 2026-10-27 22:06:22 UTC | minor update
 2026-10-27 22:07:43 UTC | style(utils): consistent quotes
+2026-10-27 22:08:06 UTC | feat(handler): extend output format
