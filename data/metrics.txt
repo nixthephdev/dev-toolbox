@@ -767,3 +767,4 @@
 2026-10-28 04:26:07 UTC | docs(parser): clarify function purpose
 2026-10-28 19:32:55 UTC | style(logger): consistent quotes
 2026-10-28 19:33:32 UTC | docs(api): add usage example
+2026-10-28 19:34:23 UTC | feat(handler): extend output format
