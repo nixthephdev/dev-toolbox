@@ -763,3 +763,4 @@
 2026-10-26 12:51:10 UTC | hotfix
 2026-10-27 12:07:53 UTC | fix(ui): add missing guard clause
 2026-10-27 22:05:46 UTC | test(ui): add missing assertions
+2026-10-28 00:55:13 UTC | tidy up
