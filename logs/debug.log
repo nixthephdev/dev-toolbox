@@ -794,3 +794,4 @@
 2026-10-30 17:52:59 UTC | docs(cache): update inline notes
 2026-10-30 21:56:13 UTC | chore(api): remove dead code
 2026-10-30 22:01:23 UTC | update notes
+2026-10-30 23:43:43 UTC | perf(handler): lazy load module
