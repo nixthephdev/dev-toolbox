@@ -773,3 +773,4 @@
 2026-10-29 18:13:32 UTC | wip
 2026-10-29 19:52:03 UTC | docs(auth): add usage example
 2026-10-30 05:17:20 UTC | style(router): consistent quotes
+2026-10-30 05:18:47 UTC | refactor(utils): simplify conditional logic
