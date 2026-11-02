@@ -896,3 +896,4 @@
 2026-11-01 12:56:12 UTC | style(auth): remove trailing whitespace
 2026-11-01 23:42:34 UTC | updates
 2026-11-02 04:35:08 UTC | minor tweaks
+2026-11-02 06:58:56 UTC | fix(parser): add missing guard clause
