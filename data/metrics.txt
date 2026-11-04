@@ -804,3 +804,4 @@
 2026-11-04 08:58:52 UTC | style(utils): consistent quotes
 2026-11-04 11:58:02 UTC | perf(router): reduce memory usage
 2026-11-04 16:43:51 UTC | feat(router): extend output format
+2026-11-04 21:59:44 UTC | docs(logger): add usage example
