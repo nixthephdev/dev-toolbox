@@ -812,3 +812,4 @@
 2026-11-05 18:23:27 UTC | fix(api): fix race condition
 2026-11-05 22:24:33 UTC | chore(cache): routine maintenance
 2026-11-05 23:40:10 UTC | chore(api): clean up unused code
+2026-11-05 23:41:52 UTC | test(handler): add missing assertions
