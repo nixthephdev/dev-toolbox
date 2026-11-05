@@ -926,3 +926,4 @@
 2026-11-05 11:59:37 UTC | test(router): fix flaky test
 2026-11-05 18:24:49 UTC | chore(router): routine maintenance
 2026-11-05 22:23:18 UTC | chore(parser): routine maintenance
+2026-11-05 22:24:15 UTC | fix(api): correct off-by-one error
