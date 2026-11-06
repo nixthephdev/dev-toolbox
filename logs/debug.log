@@ -830,3 +830,4 @@
 2026-11-06 05:21:07 UTC | style(ui): clean up formatting
 2026-11-06 05:23:37 UTC | fix(cache): add missing return
 2026-11-06 08:52:08 UTC | fix(logger): patch broken validation
+2026-11-06 12:20:49 UTC | feat(ui): add utility helper
