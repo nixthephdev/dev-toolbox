@@ -929,3 +929,4 @@
 2026-11-05 22:24:15 UTC | fix(api): correct off-by-one error
 2026-11-06 01:21:24 UTC | refactor(router): extract repeated block
 2026-11-06 02:20:15 UTC | feat(validator): add input sanitization
+2026-11-06 02:22:11 UTC | docs(db): add param descriptions
