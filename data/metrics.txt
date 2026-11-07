@@ -826,3 +826,4 @@
 2026-11-06 17:51:17 UTC | style(config): clean up formatting
 2026-11-06 17:52:45 UTC | style(api): clean up formatting
 2026-11-06 17:53:22 UTC | docs(auth): clarify function purpose
+2026-11-07 05:22:15 UTC | feat(validator): extend output format
