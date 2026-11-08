@@ -945,3 +945,4 @@
 2026-11-07 05:23:06 UTC | style(router): clean up formatting
 2026-11-07 17:16:33 UTC | perf(auth): trim unnecessary dependencies
 2026-11-07 17:17:12 UTC | docs(validator): add usage example
+2026-11-08 01:36:30 UTC | docs(cache): update inline notes
