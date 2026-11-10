@@ -847,3 +847,4 @@
 2026-11-10 02:34:55 UTC | docs(router): update documentation
 2026-11-10 06:06:36 UTC | style(utils): remove trailing whitespace
 2026-11-10 06:07:24 UTC | perf(api): trim unnecessary dependencies
+2026-11-10 12:30:42 UTC | fix(handler): add missing return
