@@ -835,3 +835,4 @@
 2026-11-10 01:40:04 UTC | docs(logger): add param descriptions
 2026-11-10 02:35:38 UTC | quick fix
 2026-11-10 04:20:13 UTC | fix(auth): resolve edge case
+2026-11-10 06:08:14 UTC | chore(cache): update default values
