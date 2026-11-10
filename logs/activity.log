@@ -951,3 +951,4 @@
 2026-11-09 09:35:27 UTC | tidy up
 2026-11-09 09:39:19 UTC | wip
 2026-11-09 22:25:16 UTC | test(logger): add integration test
+2026-11-10 01:41:42 UTC | feat(validator): add utility helper
