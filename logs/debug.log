@@ -846,3 +846,4 @@
 2026-11-10 02:34:03 UTC | fix(utils): fix incorrect regex
 2026-11-10 02:34:55 UTC | docs(router): update documentation
 2026-11-10 06:06:36 UTC | style(utils): remove trailing whitespace
+2026-11-10 06:07:24 UTC | perf(api): trim unnecessary dependencies
