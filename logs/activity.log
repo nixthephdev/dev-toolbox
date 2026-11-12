@@ -971,3 +971,4 @@
 2026-11-12 03:12:24 UTC | refactor(logger): refactor nested conditions
 2026-11-12 14:50:31 UTC | style(auth): fix indentation issues
 2026-11-12 18:33:33 UTC | fix typo
+2026-11-12 21:43:58 UTC | chore(auth): remove redundant check
