@@ -855,3 +855,4 @@
 2026-11-12 14:48:44 UTC | style(router): normalize spacing
 2026-11-12 14:50:01 UTC | update
 2026-11-12 14:52:09 UTC | small fix
+2026-11-12 18:32:09 UTC | perf(cache): lazy load module
