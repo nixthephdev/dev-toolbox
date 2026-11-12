@@ -855,3 +855,4 @@
 2026-11-12 06:31:48 UTC | minor changes
 2026-11-12 14:51:22 UTC | cleanup
 2026-11-12 18:33:18 UTC | style(router): normalize spacing
+2026-11-12 18:34:23 UTC | perf(auth): trim unnecessary dependencies
