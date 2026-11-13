@@ -860,3 +860,4 @@
 2026-11-12 21:45:44 UTC | test(ui): add missing assertions
 2026-11-12 22:36:52 UTC | patch
 2026-11-13 00:53:29 UTC | fix(auth): add missing return
+2026-11-13 00:57:03 UTC | test(router): improve test coverage
