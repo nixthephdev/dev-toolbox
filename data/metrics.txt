@@ -868,3 +868,4 @@
 2026-11-13 09:00:00 UTC | docs(handler): clarify function purpose
 2026-11-13 17:31:20 UTC | feat(handler): add new endpoint
 2026-11-13 17:32:58 UTC | chore(ui): remove dead code
+2026-11-13 17:38:02 UTC | feat(cache): add utility helper
