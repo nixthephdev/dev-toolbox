@@ -982,3 +982,4 @@
 2026-11-13 16:10:22 UTC | test(utils): fix flaky test
 2026-11-13 17:33:43 UTC | hotfix
 2026-11-13 22:24:29 UTC | chore(logger): update dependencies
+2026-11-13 22:26:11 UTC | perf(utils): reduce memory usage
