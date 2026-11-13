@@ -972,3 +972,4 @@
 2026-11-12 14:50:31 UTC | style(auth): fix indentation issues
 2026-11-12 18:33:33 UTC | fix typo
 2026-11-12 21:43:58 UTC | chore(auth): remove redundant check
+2026-11-13 00:56:06 UTC | refactor(validator): consolidate duplicate logic
