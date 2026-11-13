@@ -860,3 +860,4 @@
 2026-11-13 02:31:35 UTC | refactor(ui): simplify conditional logic
 2026-11-13 08:59:05 UTC | style(config): improve readability
 2026-11-13 09:01:35 UTC | cleanup
+2026-11-13 12:33:14 UTC | chore(router): clean up unused code
