@@ -866,3 +866,4 @@
 2026-11-13 16:06:11 UTC | minor fix
 2026-11-13 17:35:04 UTC | fix(router): resolve edge case
 2026-11-13 17:36:20 UTC | style(db): improve readability
+2026-11-13 22:27:58 UTC | perf(cache): trim unnecessary dependencies
