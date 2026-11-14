@@ -986,3 +986,4 @@
 2026-11-13 22:29:18 UTC | test(config): add edge case tests
 2026-11-13 23:36:44 UTC | test(handler): fix flaky test
 2026-11-13 23:43:21 UTC | minor changes
+2026-11-14 08:37:04 UTC | chore(logger): remove redundant check
