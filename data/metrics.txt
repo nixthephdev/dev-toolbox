@@ -871,3 +871,4 @@
 2026-11-13 17:38:02 UTC | feat(cache): add utility helper
 2026-11-13 22:22:54 UTC | minor tweaks
 2026-11-13 23:39:01 UTC | feat(api): add type annotations
+2026-11-14 11:30:59 UTC | style(validator): improve readability
