@@ -990,3 +990,4 @@
 2026-11-14 11:32:44 UTC | docs(config): add param descriptions
 2026-11-15 02:10:01 UTC | updates
 2026-11-15 05:29:22 UTC | update notes
+2026-11-15 05:30:26 UTC | perf(handler): lazy load module
