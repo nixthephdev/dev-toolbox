@@ -1003,3 +1003,4 @@
 2026-11-17 02:55:12 UTC | clean up
 2026-11-17 04:50:16 UTC | style(api): consistent quotes
 2026-11-17 07:20:16 UTC | update notes
+2026-11-17 17:32:03 UTC | perf(db): trim unnecessary dependencies
