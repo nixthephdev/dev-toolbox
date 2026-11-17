@@ -885,3 +885,4 @@
 2026-11-17 02:53:05 UTC | style(parser): fix indentation issues
 2026-11-17 04:49:42 UTC | docs(auth): add param descriptions
 2026-11-17 22:41:11 UTC | refactor(auth): update interface contract
+2026-11-17 23:39:47 UTC | fix(config): add missing guard clause
