@@ -884,3 +884,4 @@
 2026-11-17 02:52:26 UTC | tidy up
 2026-11-17 02:53:05 UTC | style(parser): fix indentation issues
 2026-11-17 04:49:42 UTC | docs(auth): add param descriptions
+2026-11-17 22:41:11 UTC | refactor(auth): update interface contract
