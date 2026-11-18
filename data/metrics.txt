@@ -886,3 +886,4 @@
 2026-11-17 04:49:42 UTC | docs(auth): add param descriptions
 2026-11-17 22:41:11 UTC | refactor(auth): update interface contract
 2026-11-17 23:39:47 UTC | fix(config): add missing guard clause
+2026-11-18 00:20:37 UTC | test(auth): add integration test
