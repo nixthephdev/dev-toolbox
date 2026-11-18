@@ -888,3 +888,4 @@
 2026-11-17 23:39:47 UTC | fix(config): add missing guard clause
 2026-11-18 00:20:37 UTC | test(auth): add integration test
 2026-11-18 02:13:04 UTC | wip
+2026-11-18 02:15:58 UTC | docs(api): clarify function purpose
