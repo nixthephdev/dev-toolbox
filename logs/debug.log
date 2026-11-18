@@ -884,3 +884,4 @@
 2026-11-17 02:54:04 UTC | docs(logger): update inline notes
 2026-11-17 17:31:24 UTC | minor changes
 2026-11-17 23:37:42 UTC | cleanup
+2026-11-18 00:19:33 UTC | refactor(handler): simplify conditional logic
