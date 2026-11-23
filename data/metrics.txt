@@ -916,3 +916,4 @@
 2026-11-21 23:01:06 UTC | test(cache): improve test coverage
 2026-11-23 20:05:48 UTC | fix(config): patch broken validation
 2026-11-23 20:06:54 UTC | fix(validator): resolve edge case
+2026-11-23 20:07:27 UTC | test(config): add missing assertions
