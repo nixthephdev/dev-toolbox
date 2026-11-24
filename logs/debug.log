@@ -911,3 +911,4 @@
 2026-11-24 03:58:44 UTC | small fix
 2026-11-24 05:14:21 UTC | refactor(db): extract repeated block
 2026-11-24 05:50:07 UTC | clean up
+2026-11-24 08:48:06 UTC | perf(utils): trim unnecessary dependencies
