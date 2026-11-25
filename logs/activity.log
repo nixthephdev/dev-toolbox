@@ -1041,3 +1041,4 @@
 2026-11-24 15:16:32 UTC | patch
 2026-11-24 15:17:52 UTC | chore(auth): remove dead code
 2026-11-24 21:55:37 UTC | clean up
+2026-11-25 00:55:48 UTC | feat(validator): add type annotations
