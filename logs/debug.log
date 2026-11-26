@@ -922,3 +922,4 @@
 2026-11-25 18:33:45 UTC | patch
 2026-11-25 20:00:42 UTC | docs(parser): clarify function purpose
 2026-11-26 00:35:39 UTC | feat(handler): add new endpoint
+2026-11-26 01:29:05 UTC | refactor(api): simplify conditional logic
