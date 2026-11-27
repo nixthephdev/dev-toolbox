@@ -933,3 +933,4 @@
 2026-11-27 07:12:43 UTC | fix(router): patch broken validation
 2026-11-27 07:15:43 UTC | hotfix
 2026-11-27 10:48:26 UTC | refactor(config): simplify conditional logic
+2026-11-27 10:49:35 UTC | chore(parser): remove redundant check
